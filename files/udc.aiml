@@ -1,0 +1,8 @@
+<category>
+    <pattern>HELLO</pattern>
+    <template>Hi there! How can I help you today?</template>
+</category>
+<category>
+    <pattern>WHAT IS YOUR NAME?</pattern>
+    <template>I am a chatbot created with Pandorabots!</template>
+</category>
